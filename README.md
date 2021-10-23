@@ -2,7 +2,7 @@
 
 ## Conversor de binário 8 bits para Ascii
 
-Programa para converter de binário 8 bits para texto ascii, utilizado para auxiliar em algum wargame que fiz em [http://overthewire.org][overtherwire].
+Programa para converter de 8 digitos binários para ascii, utilizado para auxiliar em algum wargame que fiz em [overthewire](http://overthewire.org).
 
 Para utilizar no linux faça:
 ``` shell
