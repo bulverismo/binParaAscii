@@ -10,5 +10,8 @@ gcc binToAscii.c
 ./a.out << eof
 01000001 01000010 01000011 
 eof
+```
+A saída será:
+``` shell
 ABC
 ```
